@@ -98,6 +98,12 @@ section {
 .about-me {
 
 }
+.about-me img {
+    max-height: 125px;
+    max-width: 125px;
+    float: left;
+    margin-right: 10px;
+}
 
 .work {
     
