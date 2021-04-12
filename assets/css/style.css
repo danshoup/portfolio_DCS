@@ -66,8 +66,8 @@ p {
 }
 
 img {
-    width: 100%;
-    height: 500px;
+    width: 30%;
+    height: auto;
 }
 
 /* Three main content sections with asides to the left. */
