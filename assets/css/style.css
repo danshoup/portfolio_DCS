@@ -112,11 +112,13 @@ section {
     align-items; flex-start;
     align-content: flex-start;
     flex; 1 0 auto;
+    padding; 20px;
 }
 
 .work img {
     border: solid;
-    size; 200px;
+    border-color: var(--bluegrey);
+    border-radius; 8px;
 }
 
 .contact {
