@@ -106,7 +106,17 @@ section {
 }
 
 .work {
-    
+    display: flex;
+    flex-flow; row wrap;
+    justify-content; center;
+    align-items; flex-start;
+    align-content: flex-start;
+    flex; 1 0 auto;
+}
+
+.work img {
+    border: solid;
+    size; 200px;
 }
 
 .contact {
