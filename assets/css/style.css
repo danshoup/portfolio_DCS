@@ -119,8 +119,12 @@ section {
     border: solid;
     border-color: var(--bluegrey);
     border-radius; 8px;
-    width: 30%;
+    width: 40%;
     height: auto;
+}
+
+#image1 {
+    width: 80%;
 }
 
 .contact {
