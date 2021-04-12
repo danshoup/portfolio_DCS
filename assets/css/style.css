@@ -66,8 +66,8 @@ p {
 }
 
 img {
-    width: 30%;
-    height: auto;
+    width: 100%;
+    height: 500px;
 }
 
 /* Three main content sections with asides to the left. */
@@ -119,6 +119,8 @@ section {
     border: solid;
     border-color: var(--bluegrey);
     border-radius; 8px;
+    width: 30%;
+    height: auto;
 }
 
 .contact {
